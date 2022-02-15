@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on plasma, plasma shielding, the ?plasma parameter?, occurrence
   of plasmas, and different descriptions of plasma.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-611j-introduction-to-plasma-physics-i-fall-2006/e5a91bcd39b84e278b36f9067537fe8c_chap1.pdf
+file: /media/courses/22-611j-introduction-to-plasma-physics-i-fall-2006/e5a91bcd39b84e278b36f9067537fe8c_chap1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: chap1.pdf
 uid: e5a91bcd-39b8-4e27-8b36-f9067537fe8c

@@ -8,8 +8,13 @@ description: 'Lecture notes on electromagnetic waves in plasmas, general treatme
 
   plasmas and wave propagation, two stream instability, and kinetic theory of plasma
   waves.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-611j-introduction-to-plasma-physics-i-fall-2006/0940abd0f5c16aa3972c8796c8ca52e2_chap5.pdf
+file: /media/courses/22-611j-introduction-to-plasma-physics-i-fall-2006/0940abd0f5c16aa3972c8796c8ca52e2_chap5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: chap5.pdf
 uid: 0940abd0-f5c1-6aa3-972c-8796c8ca52e2

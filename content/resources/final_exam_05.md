@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the final exam from 2005.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-611j-introduction-to-plasma-physics-i-fall-2006/0ca2f4ae26a6cce85342f802c9b948b1_final_exam_05.pdf
+file: /media/courses/22-611j-introduction-to-plasma-physics-i-fall-2006/0ca2f4ae26a6cce85342f802c9b948b1_final_exam_05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: final_exam_05.pdf
 uid: 0ca2f4ae-26a6-cce8-5342-f802c9b948b1
