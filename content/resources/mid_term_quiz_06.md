@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: e870807f-739c-5739-7605-57f05a382074
 resourcetype: Document
 title: mid_term_quiz_06.pdf
 uid: c7f405b5-5a9b-d7bf-9b82-4fd9bf550296
