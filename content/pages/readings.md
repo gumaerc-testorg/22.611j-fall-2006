@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides recommended reference texts and Prof. Ian Hutchinson's
+  2003 lecture notes for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -83,12 +85,12 @@ Courtesy of Prof. Ian Hutchinson. Used with permission.
 
 ### Course Notes
 
-1\. Introduction ([PDF]({{< baseurl >}}/resources/chap1))
+1\. Introduction ({{% resource_link e5a91bcd-39b8-4e27-8b36-f9067537fe8c "PDF" %}})
 
-2\. Motion of charged particles in fields ([PDF]({{< baseurl >}}/resources/chap2))
+2\. Motion of charged particles in fields ({{% resource_link e3c1e305-c4af-ea87-5468-1bf9f8bba057 "PDF" %}})
 
-3\. Collisions in plasmas ([PDF - 1.2 MB]({{< baseurl >}}/resources/chap3))
+3\. Collisions in plasmas ({{% resource_link 6392c1cd-e2d7-d192-1bd0-c9fdf78520cb "PDF - 1.2 MB" %}})
 
-4\. Fluid description of plasma ([PDF]({{< baseurl >}}/resources/chap4))
+4\. Fluid description of plasma ({{% resource_link c168b1b9-1162-1d22-99f8-2eb8c1178b70 "PDF" %}})
 
-5\. Electromagnetic waves in plasmas ([PDF - 1.0 MB]({{< baseurl >}}/resources/chap5))
+5\. Electromagnetic waves in plasmas ({{% resource_link 0940abd0-f5c1-6aa3-972c-8796c8ca52e2 "PDF - 1.0 MB" %}})

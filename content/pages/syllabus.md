@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the course description and information about course
+  prerequisites, textbook, problem sets, exams, grading, and a calendar of lecture
+  topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -26,7 +29,7 @@ In order to register for 22.611J, 8.613J and 6.651J, you should have previously 
 Textbook
 --------
 
-There is no required text for this course. There is, however, a list of recommended texts in the [readings]({{< baseurl >}}/pages/readings) section.
+There is no required text for this course. There is, however, a list of recommended texts in the {{% resource_link 6b05fc35-d4ff-e451-0f48-8d14f9804182 "readings" %}} section.
 
 Problem Sets
 ------------
