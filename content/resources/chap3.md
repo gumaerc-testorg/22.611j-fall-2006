@@ -7,6 +7,7 @@ file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/6392c1cde2d7d1
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: chap3.pdf
 uid: 6392c1cd-e2d7-d192-1bd0-c9fdf78520cb
 ---
 Lecture notes on collisions in plasmas, differential cross-section for scattering by angle, relaxation processes, thermal distribution collisions, applications of collision analysis, and some orders of magnitude.
-

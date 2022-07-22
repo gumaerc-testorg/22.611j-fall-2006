@@ -12,6 +12,7 @@ file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/0940abd0f5c16a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -22,4 +23,3 @@ uid: 0940abd0-f5c1-6aa3-972c-8796c8ca52e2
 ---
 Lecture notes on electromagnetic waves in plasmas, general treatment of linear waves in anisotropic medium, high frequency plasma conductivity, cold plasma waves (magnetized plasma), thermal effects on plasma waves, electrostatic approximation for (plasma) waves, simple example of MHD dynamics: Alfven waves, non uniform
 plasmas and wave propagation, two stream instability, and kinetic theory of plasma waves.
-

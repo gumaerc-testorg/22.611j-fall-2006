@@ -5,6 +5,7 @@ file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/2059cc70bb901d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset9.pdf
 uid: 2059cc70-bb90-1df3-3062-0f872e345129
 ---
 This resource contains a problem set.
-

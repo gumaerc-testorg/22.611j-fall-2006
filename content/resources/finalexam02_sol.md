@@ -5,6 +5,7 @@ file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/57ed3a52912955
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: finalexam02_sol.pdf
 uid: 57ed3a52-9129-55e1-f46b-be456e19622f
 ---
 This resource contains solutions for the final exam from 2002.
-

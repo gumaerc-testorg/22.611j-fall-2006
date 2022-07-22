@@ -6,6 +6,7 @@ file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/610d5c6eed4d7f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pset1sol_02.pdf
 uid: 610d5c6e-ed4d-7fae-ccdb-ac2674ac1dcb
 ---
 This resource contains a problem set with solutions from a previous semester, provided as practice material.
-

@@ -6,6 +6,7 @@ file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/e5a91bcd39b84e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: chap1.pdf
 uid: e5a91bcd-39b8-4e27-8b36-f9067537fe8c
 ---
 Lecture notes on plasma, plasma shielding, the ?plasma parameter?, occurrence of plasmas, and different descriptions of plasma.
-

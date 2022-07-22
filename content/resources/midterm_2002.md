@@ -5,6 +5,7 @@ file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/7316c8e9481e91
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm_2002.pdf
 uid: 7316c8e9-481e-9124-353c-174505fbdf5b
 ---
 This resource contains the mid-term exam from 2002.
-
