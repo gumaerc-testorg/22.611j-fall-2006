@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a problem set.
 file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/a16f1778c99291136415241ab0b5f3b3_pset1.pdf
+file_size: 101166
 file_type: application/pdf
 learning_resource_types:
 - Assignments
