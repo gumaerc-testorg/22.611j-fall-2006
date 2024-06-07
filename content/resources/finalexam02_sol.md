@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the final exam from 2002.
 file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/57ed3a52912955e1f46bbe456e19622f_finalexam02_sol.pdf
+file_size: 251336
 file_type: application/pdf
 learning_resource_types:
 - Exams
