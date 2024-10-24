@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the mid-term exam from 2005.
-file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/5994438c4b8017dd801f326915359d57_mid_term_quiz_05.pdf
+file: /ol-ocw-studio-app/courses/22-611j-introduction-to-plasma-physics-i-fall-2006/5994438c4b8017dd801f326915359d57_mid_term_quiz_05.pdf
 file_size: 99536
 file_type: application/pdf
 learning_resource_types:
