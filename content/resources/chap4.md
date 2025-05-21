@@ -7,7 +7,7 @@ description: 'Lecture notes on fluid description of plasma, particle conservatio
   dynamics (MHD), flux conservation, field line motion, MHD stability, general perturbations
   of cylindrical equil, general principles governing instabilities, and a quick and
   simple analysis of pinches.'
-file: /ol-ocw-studio-app/courses/22-611j-introduction-to-plasma-physics-i-fall-2006/c168b1b911621d2299f82eb8c1178b70_chap4.pdf
+file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/c168b1b911621d2299f82eb8c1178b70_chap4.pdf
 file_size: 648948
 file_type: application/pdf
 learning_resource_types:

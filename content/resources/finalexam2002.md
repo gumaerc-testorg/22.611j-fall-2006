@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the final exam from 2002.
-file: /ol-ocw-studio-app/courses/22-611j-introduction-to-plasma-physics-i-fall-2006/67b7deecadf46ae96f86f8bb451ddf68_finalexam2002.pdf
+file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/67b7deecadf46ae96f86f8bb451ddf68_finalexam2002.pdf
 file_size: 150006
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions for the mid-term exam from 2002.
-file: /ol-ocw-studio-app/courses/22-611j-introduction-to-plasma-physics-i-fall-2006/75a6a369199ccec2b7b48bee7490c683_midterm02_sol.pdf
+file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/75a6a369199ccec2b7b48bee7490c683_midterm02_sol.pdf
 file_size: 277990
 file_type: application/pdf
 learning_resource_types:
