@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a problem set with solutions from a previous semester,
   provided as practice material.
-file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2006/69660d0998fde5e012ae6d0c2f5c98c6_pset4sol_02.pdf
+file: /ol-ocw-studio-app/courses/22-611j-introduction-to-plasma-physics-i-fall-2006/69660d0998fde5e012ae6d0c2f5c98c6_pset4sol_02.pdf
 file_size: 369675
 file_type: application/pdf
 learning_resource_types:
