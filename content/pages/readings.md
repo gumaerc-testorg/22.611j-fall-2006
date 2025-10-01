@@ -68,9 +68,9 @@ Hutchinson, I. H. _Principles of Plasma Diagnostics_. Cambridge, UK: Cambridge U
 
 ### Magnetic Confinement Fusion
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262180061) Rose, D. J., and M. Clark, Jr. [_Plasmas and Controlled Fusion_](https://mitpress.mit.edu/9780262180061). Cambridge, MA: MIT Press, 1961. ISBN: 9780262180061.
+{{% resource_link "059d8120-6082-4931-94c0-06008d8c23c1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rose, D. J., and M. Clark, Jr. {{% resource_link "059d8120-6082-4931-94c0-06008d8c23c1" "_Plasmas and Controlled Fusion_" %}}. Cambridge, MA: MIT Press, 1961. ISBN: 9780262180061.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631174) Miyamoto, K. [_Plasma Physics for Nuclear Fusion_](https://mitpress.mit.edu/9780262631174). Cambridge, MA: MIT Press, 1989. ISBN: 9780262631174.
+{{% resource_link "771848b0-0fd3-4b76-a6c6-82e28637a959" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Miyamoto, K. {{% resource_link "771848b0-0fd3-4b76-a6c6-82e28637a959" "_Plasma Physics for Nuclear Fusion_" %}}. Cambridge, MA: MIT Press, 1989. ISBN: 9780262631174.
 
 Wesson, J. _Tokamaks_. 3rd ed. Oxford, UK: Oxford University Press, 2004. ISBN: 9780198509226.
 
